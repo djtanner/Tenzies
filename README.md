@@ -1,3 +1,6 @@
+<img src="/Screen Shot 2023-02-04 at 9.00.20 AM.png">
+
+
 Tenzies game for creating random dice rolls and locking in your selected number, until you get all 10 die to match.
 Built using React.
 
